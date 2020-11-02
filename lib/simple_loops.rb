@@ -14,7 +14,7 @@ def loop_message_n_times(string, i)
 end
 
 def output_array(array)
-  arr.each do |ele|
+  array.each do |ele|
     puts ele 
   end
 end
